@@ -1,0 +1,6 @@
+{
+  "name": "OmniMock Platform",
+  "description": "Nền tảng Quản lý và Giả lập API toàn diện với các tính năng Mocking linh hoạt, Chaos Engineering và Giám sát hệ thống.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
